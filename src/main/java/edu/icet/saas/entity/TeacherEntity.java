@@ -6,7 +6,7 @@ import java.time.LocalDate;
 import java.util.UUID;
 
 @AllArgsConstructor
-public class Teacher {
+public class TeacherEntity {
     private UUID id;
     private String name;
     private String nic;

@@ -5,7 +5,7 @@ import lombok.AllArgsConstructor;
 import java.util.UUID;
 
 @AllArgsConstructor
-public class Student {
+public class StudentEntity {
     private UUID id;
     private String name;
     private Integer age;
